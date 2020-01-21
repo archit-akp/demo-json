@@ -1,0 +1,14 @@
+{
+  "Users": [
+    { "id": 1, "name": "ABC" },
+    { "id": 2, "name": "PQR" },
+    { "id": 3, "name": "XYZ" }
+  ],
+  "Features": [
+    { "id": 1, "body": "Fat", "postId": 1 },
+    { "id": 2, "body": "Slim", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
